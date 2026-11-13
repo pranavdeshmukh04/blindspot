@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "blindspot",
+  "description": "PR review that compares your change with a plan written by an agent that never saw it.",
+  "owner": {
+    "name": "pranavdeshmukh04",
+    "url": "https://github.com/pranavdeshmukh04"
+  },
+  "plugins": [
+    {
+      "name": "blindspot",
+      "description": "PR review with a blind planner and a judge. Shows what the change missed and what it added beyond the requirement.",
+      "source": "./",
+      "category": "development"
+    }
+  ]
+}

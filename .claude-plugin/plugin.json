@@ -1,0 +1,13 @@
+{
+  "name": "blindspot",
+  "version": "0.1.0",
+  "description": "PR review with a blind planner: one agent writes the smallest plan for the requirement without seeing the diff, then a judge compares it with the real change.",
+  "author": {
+    "name": "pranavdeshmukh04",
+    "url": "https://github.com/pranavdeshmukh04"
+  },
+  "homepage": "https://github.com/pranavdeshmukh04/blindspot",
+  "repository": "https://github.com/pranavdeshmukh04/blindspot",
+  "license": "MIT",
+  "keywords": ["code-review", "pull-request", "multi-agent", "review"]
+}
